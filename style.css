@@ -82,3 +82,22 @@ footer {
         font-size: 1.5rem;
     }
 }
+.contacto {
+    margin-top: 40px;
+    text-align: center;
+    color: #e0e0e0;
+}
+
+.contacto h2 {
+    margin-bottom: 15px;
+    font-size: 1.4rem;
+}
+
+.contacto a {
+    color: #4da3ff;
+    text-decoration: none;
+}
+
+.contacto a:hover {
+    text-decoration: underline;
+}
